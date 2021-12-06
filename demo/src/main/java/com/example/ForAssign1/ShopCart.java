@@ -1,5 +1,5 @@
 package com.example.ForAssign1;
-import java.util.collection;
+//import java.util.collection;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -7,7 +7,7 @@ import java.util.List;
 public class ShopCart{
     public ShopCart(){};
     public ArrayList<String> cart = new ArrayList<String>();
-    private Boolean isdiff=true;
+    //private Boolean isdiff=true;
     
     public Boolean list(){
         if (cart.size()==0) {
